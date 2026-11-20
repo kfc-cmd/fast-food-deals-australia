@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kfc-cmd.github.io/fast-food-deals-australia/sitemap.xml
